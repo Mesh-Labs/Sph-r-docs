@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Sph-r-docs](README.md)
+* [Sphär](README.md)
 
 ## Overview
 
