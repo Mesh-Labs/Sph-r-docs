@@ -1,6 +1,2 @@
----
-description: On-chain privacy mechanism documentation
----
-
-# Sphär
-
+# Sphär-docs
+Sphär - on-chain privacy mechanism documentation 

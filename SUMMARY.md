@@ -15,6 +15,8 @@
   * [Verifiable secret sharing](privacy-protocol/verifiable-secret-sharing.md)
 * [Wallets and Keys](wallets-and-keys.md)
 * [Shielding / Unshielding Tokens](shielding-unshielding-tokens.md)
+* [Private pools and Merkle trees](private-pools-and-merkle-trees.md)
+* [Gasless Transactions](gasless-transactions.md)
 * [Integrating Sphär](integrating-sphaer.md)
 * [Tokenomics](tokenomics.md)
 * [Roadmap](roadmap.md)
