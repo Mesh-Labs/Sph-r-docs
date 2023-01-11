@@ -1,2 +1,2 @@
-# Sph-r-docs
+# Sphär-docs
 Sphär - on-chain privacy mechanism documentation 
