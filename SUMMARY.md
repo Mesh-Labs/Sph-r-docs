@@ -17,6 +17,7 @@
 * [Shielding / Unshielding Tokens](shielding-unshielding-tokens.md)
 * [Private pools and Merkle trees](private-pools-and-merkle-trees.md)
 * [Gasless Transactions](gasless-transactions.md)
+* [Sphär fees](sphaer-fees.md)
 * [Integrating Sphär](integrating-sphaer.md)
 * [Tokenomics](tokenomics.md)
 * [Roadmap](roadmap.md)
