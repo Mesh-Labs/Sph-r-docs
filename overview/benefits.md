@@ -5,7 +5,7 @@ The effectiveness of privacy is greatly increased by using complicated DeFi tran
 Use cases Sphär aims to:
 
 1. Secure data sharing
-2. Auto revoke transaction on the protocol
+2. To avoid rug-pull on DeFi and auto revoke transaction on the protocol
 3. Anonymous on-chain
 
 For these reasons, Sphär is a game-changer and the most uncompromising and comprehensive privacy solution for DeFi. Private DeFi will open up new business opportunities for the bitcoin sector that would not be viable on public blockchains. All other privacy options come with certain drawbacks, such as having users to rely on custodial bridges or trade with fragmented/non-existent liquidity.
