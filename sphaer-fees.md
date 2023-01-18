@@ -1,6 +1,6 @@
 # Sphär fees
 
-In the Fantom or Ethereum ecosystem, gas is the fee required to execute transactions and smart contract operations on the blockchain. Gas is paid in the form of Ether (ETH) or FTM, which is the native cryptocurrency of the network.
+In the Ethereum ecosystem, gas is the fee required to execute transactions and smart contract operations on the blockchain. Gas is paid in the form of Ether (ETH), which is the native cryptocurrency of the network.
 
 When a user wants to interact with a smart contract, they must pay a gas fee in ETH to cover the cost of executing the transaction on the blockchain. This can be a barrier to entry for users who do not own any ETH, or for users who do not want to use their existing ETH to pay for gas.
 
@@ -16,7 +16,7 @@ The way it works:
 
 This allows users to interact with the blockchain without needing to own any native tokens themselves, by allowing them to pay for gas fees with a gas token instead.
 
-For instance, when sending USDC on the Fantom network, traditionally you would need to have FTM, the native token of the network to pay for the gas fee. However, with the use of a relayer service, you can pay for the gas fee using USDC instead of FTM. This allows for a more convenient and user-friendly experience, as the user can transact using the currency they are already holding without needing to acquire the native token of the network.&#x20;
+For instance, when sending USDC on the Ethereum network, traditionally you would need to have ETH, the native token of the network to pay for the gas fee. However, with the use of a relayer service, you can pay for the gas fee using USDC instead of ETH. This allows for a more convenient and user-friendly experience, as the user can transact using the currency they are already holding without needing to acquire the native token of the network.&#x20;
 
 ## Fee structure
 
