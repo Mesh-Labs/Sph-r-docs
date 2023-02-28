@@ -21,4 +21,12 @@
 * [Integrating Sphär](integrating-sphaer.md)
 * [Tokenomics](tokenomics.md)
 * [Roadmap](roadmap.md)
-* [Meet the team](meet-the-team.md)
+
+## Security and legal
+
+* [Risks and Legal Disclosures](security-and-legal/risks-and-legal-disclosures.md)
+
+## Team
+
+* [Meet the team](team/meet-the-team.md)
+* [Multisig](team/multisig.md)
